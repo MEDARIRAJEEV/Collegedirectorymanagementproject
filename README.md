@@ -5,4 +5,4 @@ admin will register the faculty,student in this application and admin email id i
 faculty will enter student marks,other details.
 Students will check there marks using their respective email and password which are entered by admin while registering the student.
 Students can contact the respective subject faculty by mentioning the particular subject.
-In this application I used spring boot & Mysql.
+In this application I used spring boot & Mysql. 
